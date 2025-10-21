@@ -36,10 +36,10 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=anaconda,py,react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r,arduino,angular,tensorflow" />
+    <img src="https://skillicons.dev/icons?i=anaconda,py,react,bootstrap,html,css,vscode,github,figma,tailwind,git,r,arduino,angular,tensorflow" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,cpp,java,nextjs,mysql,flask,aws" /><br>
-    <img src="https://skillicons.dev/icons?i=babel,bash,bootstrap,clouflare,debian,discord,django,docker,eclipse,express,fastapi,firebase" /><br>
-    <img src="https://skillicons.dev/icons?i=gcp,github,idea,js,kali,latex,linux,nextjs,npm,obsidian,opencv,postman,redux,regex,threejs,ubuntu,vscode" /><br>
+    <img src="https://skillicons.dev/icons?i=babel,bash,bootstrap,clouflare,debian,discord,django,docker,eclipse,express,fastapi,firebase,vscode,ubuntu" /><br>
+    <img src="https://skillicons.dev/icons?i=gcp,github,idea,js,kali,latex,linux,nextjs,npm,obsidian,opencv,postman,redux,regex,threejs" /><br>
 </div>
 
 <br/>
