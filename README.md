@@ -38,7 +38,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=anaconda,py,react,bootstrap,html,css,vscode,github,figma,tailwind,git,r,arduino,angular,tensorflow" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,cpp,java,nextjs,mysql,flask,aws" /><br>
-    <img src="https://skillicons.dev/icons?i=babel,bash,bootstrap,clouflare,debian,discord,django,docker,eclipse,express,fastapi,firebase,vscode,ubuntu" /><br>
+    <img src="https://skillicons.dev/icons?i=babel,bash,bootstrap,cloudflare,debian,discord,django,docker,eclipse,express,fastapi,firebase,vscode,ubuntu" /><br>
     <img src="https://skillicons.dev/icons?i=gcp,github,idea,js,kali,latex,linux,nextjs,npm,obsidian,opencv,postman,redux,regex,threejs" /><br>
 </div>
 
